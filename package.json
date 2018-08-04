@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/matsalundstrom/my-starter-project/issues"
   },
-  "homepage": "https://github.com/matsalundstrom/my-starter-project#readme"
+  "homepage": "https://github.com/matsalundstrom/my-starter-project#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  }
 }
