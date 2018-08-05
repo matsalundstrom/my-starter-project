@@ -3,4 +3,5 @@
 A starter project for JavaScript projects.
 
 ## License
+
 Licensed under the [MIT](LICENSE.md) License.
